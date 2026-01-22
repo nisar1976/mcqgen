@@ -1,5 +1,5 @@
-install openai
-install langchain
-install streamlit
-python .dotenv
+openai
+langchain
+streamlit
+python-dotenv
 PyPdf2
