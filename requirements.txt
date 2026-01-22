@@ -2,4 +2,4 @@ install openai
 install langchain
 install streamlit
 python .dotenv
-pypdf2
+PyPdf2
